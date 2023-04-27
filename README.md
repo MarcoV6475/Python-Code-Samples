@@ -22,4 +22,4 @@ return home after 10 nights you would return home on a Saturday (day 6) Write a 
 version of the program which asks for the starting day number, and the length of your stay, and
 it will tell you the number of day of the week you will return on.
 
-Finally, after review all seven sample problems I used python code and figured out how to make all objective for the seven probelms work!
+Finally, after I reviewed all seven sample problems I figured out how to make all objective for the seven probelms work using python code and debugging skills!
